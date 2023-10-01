@@ -1,0 +1,17 @@
+header{
+    background-color: black;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: left;
+    border-bottom: 5px solid yellow;
+    width: 100%;
+    display: flex;
+}
+
+header h1:hover{
+    color: yellow;
+    transition: 0.5s ease-in;
+}
+
+header .hh{ color: black;}
+

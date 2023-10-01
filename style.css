@@ -1,0 +1,30 @@
+main{
+    background-color: rgb(36, 36, 36);
+    width: 100%;
+    height: 100%;
+}
+
+.quest{
+    justify-content: center;
+    padding-top: 4em;
+    
+}
+
+.box-2{ display: block; text-align: center; justify-content: center;}
+.box-2 label{ margin-right: 7em; font-size: 1.4em;}
+.box-2 input{ font-size: 1.5em; border-radius: 0.2em;  background-color: rgba(0, 0, 0, 0.041); border: none; border: 2px solid rgb(65, 65, 65); margin-bottom: 0.5em; color: rgb(104, 104, 104);}
+
+button{ padding: 1em; padding-right: 3em; padding-left: 3em; margin-top: 1.5em; border-radius: 1em; border: none; background-color: yellow; color: black; font-size: 1em;}
+button:hover{ background-color: rgb(211, 211, 2); box-shadow: 0px 0px 4px yellow; cursor: pointer;}
+
+
+.result1{ 
+    padding-top: 4.2em;
+    padding-bottom: 4.2em;
+    align-items: center;
+}
+
+.r1{ background-color: yellow; margin-left: 25% ; margin-right: 25%; padding-top: 2em; padding-bottom: 2em; border: 2px solid black; border-radius: 0.5em;}
+
+span{ color: black;}
+
